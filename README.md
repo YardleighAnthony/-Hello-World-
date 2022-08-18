@@ -15,6 +15,8 @@ I will just be implementing **some basic markdown elements**
 
 ```html
 <p> An html tag for paragraphs <p>
+```
   
 ```javascript
   let name = "Yardleigh"
+```
