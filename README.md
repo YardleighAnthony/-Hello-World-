@@ -18,5 +18,5 @@ I will just be implementing **some basic markdown elements**
 ```
   
 ```javascript
-  let name = "Yardleigh"
+  let name = "Yardleigh" //Some javascript
 ```
