@@ -20,6 +20,7 @@ I will just be implementing **some basic markdown elements**
 ```javascript
   let name = "Yardleigh" //Some javascript
 ```
-                                                         **Image of Nasa logo, just because I am a fan**
+
+**Image of Nasa logo, just because I am a fan**
 ![alt text](https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png)
 
