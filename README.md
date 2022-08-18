@@ -1,5 +1,5 @@
 # -Hello-World-
-## About me and some few other things unrelated to things about me...
+## About me and some few other things unrelated to you getting to know me...
 Learning GitHub's pull request workflow
 
 [I am a student at Belgium Campus, working towards getting a Bcom Degree.](https://www.belgiumcampus.ac.za/bachelor-of-computing)
